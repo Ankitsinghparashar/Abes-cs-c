@@ -30,7 +30,7 @@ body {
 
 /* Each Box */
 .box {
-  background-color: #712323;
+  background-color: #e9e5e5;
   border: 2px solid #ccc;
   padding: 10px;
   display: flex;
